@@ -7,7 +7,7 @@
     android:orientation="vertical"
     tools:ignore="HardcodedText,MissingClass"
 
-<com.github
+<com.github.mikephil.charting.charts.LineChart
     android:id="@+id/lineChart"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
